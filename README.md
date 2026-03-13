@@ -167,8 +167,4 @@ git commit -m "Sua mensagem"
 git push
 ```
 
----
 
-🎉 Pronto! Seu projeto Laravel está criado e configurado com sucesso!
-
-Se quiser, posso organizar isso em formato mais profissional para README do GitHub também 😉
